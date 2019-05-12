@@ -9,11 +9,18 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* Index/Search pages
+	* [index](images/index.pdf)
+	* [search](images/search.pdf)
+* Checkout
+	* [Cart](images/cart.pdf)
+	* [Shipping](images/shipping.pdf)
+	* [Payment](images/payment.pdf)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2343778)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/theTimRidenour/broke-e-com
